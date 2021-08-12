@@ -59,7 +59,7 @@
     <div class="container d-flex justify-content-between">
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">info@perfectlab.kz</a>
-        <i class="bi bi-phone"></i> +7 701 775 7791
+        <i class="bi bi-phone"></i> +7
       </div>
       <div class="d-none d-lg-flex social-links align-items-center">
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -785,7 +785,7 @@
             <h3>PerfectLab</h3>
             <p>
               г. Алматы, <br />ул. Прокофьева, д.89А <br><br>
-              <strong>Phone:</strong> +7 701 775 7791<br>
+              <strong>Phone:</strong> +7 <br>
               <strong>Email:</strong> info@perfectlab.kz<br>
             </p>
           </div>
